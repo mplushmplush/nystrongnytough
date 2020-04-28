@@ -1,7 +1,7 @@
 <h1>NY Strong, NY Tough</h1>
 
 This is intended to a central location for resources for resident's of NYC.
-The purpose in creating this was to help consolidate information. The goal is to put as much information as possible to share.
+The purpose in creating this was to help consolidate information. This is a work-in-progress and will be updated continuously. Please let me know if you would like to contribute and share!
 
 <h2>Queens Strong, Queens Tough</h2>
 
@@ -27,11 +27,12 @@ The purpose in creating this was to help consolidate information. The goal is to
 
 
 <b>Instagram Accounts to Follow</b>
-
+<ul>
 Queens Memory
 Help Queens Now
+</ul>
 
-Fundraisers to Follow
+<b>Fundraisers to Follow</b>
 
 
 <h2>Brooklyn Strong, Brooklyn Tough</h2>
