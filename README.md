@@ -5,7 +5,7 @@ The purpose in creating this was to help consolidate information. The goal is to
 
 <h2>Queens Strong, Queens Tough</h2>
 
-<h4>Resources from the Queen's Economic Development Corps</h4>[<a href="https://docs.google.com/spreadsheets/d/1IWJgkPggjWJHG7Q6ATqsz3eF3YE-cUM3owJUYEMTwbU/edit#gid=0">LINK</a>]
+<b>Resources from the Queen's Economic Development Corps</b>[<a href="https://docs.google.com/spreadsheets/d/1IWJgkPggjWJHG7Q6ATqsz3eF3YE-cUM3owJUYEMTwbU/edit#gid=0">LINK</a>]
 
 List of Hospitals in Queens
 
