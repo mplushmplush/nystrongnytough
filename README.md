@@ -10,11 +10,6 @@ The purpose in creating this was to help consolidate information. The goal is to
 
 <b>List of Hospitals in Queens</b>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
-
 <li>Creedmoor Psychiatric Center	<br> 79-25 Winchester Boulevard, Queens Village, Queens</br></li>
 <li>Elmhurst Hospital Center	 <br> 79-01 Broadway, Elmhurst, Queens</br></li>
 <li>The Floating Hospital	 <br> 41-40 27th Street, Long Island City, Queens</br></li>
@@ -28,8 +23,10 @@ The purpose in creating this was to help consolidate information. The goal is to
 <li>St. John's Episcopal Hospital South Shore	<br>  327 Beach 19th Street, Far Rockaway, Queens</br></li>
 <li>St. Mary's Children's Hospital	<br>  29-01 216th Street, Bayside, Queens</br></li>
 <li>Zucker Hillside Hospital	<br>  75-59 263rd Street, Glen Oaks, Queens</br></li>
+</ul>
 
-Instagram Accounts to Follow
+
+<b>Instagram Accounts to Follow</b>
 
 Queens Memory
 Help Queens Now
