@@ -1,7 +1,9 @@
 <h1>NY Strong, NY Tough</h1>
 
 This is intended to a central location for resources for resident's of NYC.
-The purpose in creating this was to help consolidate information. This is a work-in-progress and will be updated continuously. Please let me know if you would like to contribute and share!
+The purpose in creating this was to help consolidate information. This is a work-in-progress and will be updated continuously. 
+I am also collecting this in a Google Sheet.
+Please let me know if you would like to contribute and share on here or Google Sheets!
 
 <h2>Queens Strong, Queens Tough</h2>
 
@@ -16,7 +18,7 @@ The purpose in creating this was to help consolidate information. This is a work
 <li>Flushing Hospital Medical Center	 <br> 4500 Parsons Boulevard, Flushing, Queens</br></li>
 <li>Long Island Jewish Forest Hills	<br>  102-01 66th Road, Forest Hills, Queens</br></li>
 <li>Jamaica Hospital Medical Center	<br>  Van Wyck Expressway at 89th Avenue, Jamaica, Queens</br></li>
-<li>Long Island Jewish Medical Center	<br>  270-05 76th Avenue, New Hyde Park (on the border of Queens and Nassau Counties - in Glen Oaks, Queens and Lake Success, Nassau County, with a New Hyde Park mailing address)</br></li>
+<li>Long Island Jewish Medical Center	<br>  270-05 76th Avenue, New Hyde Park <br>(on the border of Queens and Nassau Counties - in Glen Oaks, Queens and Lake Success, Nassau County, with a New Hyde Park mailing address)</br></br></li>
 <li>Mount Sinai Queens	<br>  25-10 30th Avenue, Astoria Queens</br></li>
 <li>New York–Presbyterian/Queens	<br>  56-45 Main Street, at Booth Memorial Avenue, Flushing, Queens</br></li>
 <li>Queens Hospital Center	<br>  82-68 164th Street, Jamaica, Queens</br></li>
@@ -25,17 +27,18 @@ The purpose in creating this was to help consolidate information. This is a work
 <li>Zucker Hillside Hospital	<br>  75-59 263rd Street, Glen Oaks, Queens</br></li>
 </ul>
 
+<b>Organizations and Their Instagram Accounts to Follow</b>
 
-<b>Instagram Accounts to Follow</b>
 <ul>
-Queens Memory
+Queens Memory https://www.instagram.com/queensmemory/
 Help Queens Now
 </ul>
 
-<b>Fundraisers to Follow</b>
+<b>Fundraisers to Follow</b> 
 
 
 <h2>Brooklyn Strong, Brooklyn Tough</h2>
 
-Resources
+<b>Resources</b> (compiled by Hadass Wade) [<a href="https://docs.google.com/document/d/12E7FWGdkOguHPmL6iEcYZezPrdFE-nA6V_zB21RmBVg/edit">LINK</a>]
+These include grassroots initiatives for those that have been furloughed or let go because they were a part of the gig economy workforce.
 
