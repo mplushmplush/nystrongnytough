@@ -30,21 +30,20 @@ Please let me know if you would like to contribute and share on here or Google S
 <b>Organizations and Their Instagram Accounts to Follow</b>
 
 <ul>
-  <li></li>Queens Memory https://www.instagram.com/queensmemory/
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-Help Queens Now
+  <li><a href="https://www.instagram.com/queensmemory/">Queens Memory</a></li>
+   <li><a href="https://www.instagram.com/elmhurstcommunitypartnership/">Elmhurst Community Partnership</a></li>
+   <li><a href="https://www.instagram.com/astoria_mutual_aid/">Astoria Mutual Aid</a></li>
+   <li><a href="https://www.instagram.com/astoriafoodpantry/">Astoria Food Pantry</a></li>
+   <li><a href="https://www.instagram.com/sunnysidewoodside_mutualaid">Sunnyside Woodside Mutual Aid</a></li>
+   <li><a href="https://www.instagram.com/ourchildrensvoice_queensny">Our Children's Voice</a></li>
+  <li><a href="https://www.instagram.com/helpqueensnow/">Help Queens Now</a></li>
 </ul>
 
 <b>Fundraisers to Follow</b> 
-  <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
+  <li><a href="https://www.gofundme.com/f/dnuzf-a-cause-i-care-about-needs-help">Protect Medical Responders of Queens Healthcare (Help Queens Now GoFundMe)</a></li>
+   <li><a href="https://www.gofundme.com/f/food-for-the-fearless">Food for the Fearles</a></li>
+   <li><a href="https://www.gofundme.com/f/help-elmhurst-hospital-in-queens-ny">Help Elmhurst Hospital</a></li>
+ 
 
 <h2>Brooklyn Strong, Brooklyn Tough</h2>
 
