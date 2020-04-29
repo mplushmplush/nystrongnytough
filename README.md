@@ -6,8 +6,6 @@ I am also collecting this in a Google Sheet.
 
 Please let me know if you would like to contribute and share on here or Google Sheets! Also, feel free to let me know how I can improve this.
 
-<h2>General Information</h2>
-
 
 <h2>Queens Strong, Queens Tough</h2>
 
@@ -54,3 +52,4 @@ Please let me know if you would like to contribute and share on here or Google S
 <b>Resources</b> (compiled by Hadass Wade) [<a href="https://docs.google.com/document/d/12E7FWGdkOguHPmL6iEcYZezPrdFE-nA6V_zB21RmBVg/edit">LINK</a>]<br>
 These include grassroots initiatives for those that have been furloughed or let go because they were a part of the gig economy workforce.</br>
 
+<script async data-uid="df09e56171" src="https://contactmh.ck.page/df09e56171/index.js"></script>
