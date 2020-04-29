@@ -6,6 +6,9 @@ I am also collecting this in a Google Sheet.
 
 Please let me know if you would like to contribute and share on here or Google Sheets! Also, feel free to let me know how I can improve this.
 
+<h2>General Information</h2>
+
+
 <h2>Queens Strong, Queens Tough</h2>
 
 <b>Resources from the Queen's Economic Development Corps</b>
@@ -44,7 +47,7 @@ Please let me know if you would like to contribute and share on here or Google S
   <li><a href="https://www.gofundme.com/f/dnuzf-a-cause-i-care-about-needs-help">Protect Medical Responders of Queens Healthcare (Help Queens Now GoFundMe)</a></li>
    <li><a href="https://www.gofundme.com/f/food-for-the-fearless">Food for the Fearles</a></li>
    <li><a href="https://www.gofundme.com/f/help-elmhurst-hospital-in-queens-ny">Help Elmhurst Hospital</a></li>
- 
+ <li><a href="https://www.gofundme.com/f/vwqbga-aia-feeds-first-responders">Feeding First Responders by Asians in America</a></li>
 
 <h2>Brooklyn Strong, Brooklyn Tough</h2>
 
