@@ -3,7 +3,7 @@
 This is intended to a central location for resources for resident's of NYC.
 The purpose in creating this was to help consolidate information. This is a work-in-progress and will be updated continuously. 
 I am also collecting this in a Google Sheet.
-Please let me know if you would like to contribute and share on here or Google Sheets!
+Please let me know if you would like to contribute and share on here or Google Sheets! (also let me know how I can help improve this)
 
 <h2>Queens Strong, Queens Tough</h2>
 
