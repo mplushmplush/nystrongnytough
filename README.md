@@ -6,6 +6,9 @@ I am also collecting this in a Google Sheet.
 
 Please let me know if you would like to contribute and share on here or Google Sheets! Also, feel free to let me know how I can improve this.
 
+<h2>NYC Strong, NYC Tough</h2>
+UPDATE: Here's a really comprehensive list from Mutual Aid NYC. It includes some of the orgs listed below. Special thanks to <a href="https://github.com/kkruege">kkruege</a> for sending this over [<a href="https://sites.google.com/view/nyc-covid19/home">LINK</a>]
+
 
 <h2>Queens Strong, Queens Tough</h2>
 
@@ -61,3 +64,5 @@ These include grassroots initiatives for those that have been furloughed or let 
   <li><a href="https://instagram.com/bxmutualaidnetwork">Bronx Mutual Aid</a></li>
    <li><a href="https://instagram.com/southbronxmutualaid">South Bronx Mutual Aid</a></li>
 </ul>
+
+
