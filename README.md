@@ -9,7 +9,7 @@ Please let me know if you would like to contribute and share on here or Google S
 <h2>NYC Strong, NYC Tough</h2>
 UPDATE: Here's a really comprehensive list from Mutual Aid NYC. It includes some of the orgs listed below. Special thanks to <a href="https://github.com/kkruege">kkruege</a> for sending this over [<a href="https://sites.google.com/view/nyc-covid19/home">LINK</a>]
 
-<a href=https://www1.nyc.gov/site/coronavirus/resources/covid-testing.page">List of COVID-19 Testing Sites (NYC.gov)</a>
+<a href="https://www1.nyc.gov/site/coronavirus/resources/covid-testing.page?utm_source=mplushmplush&utm_medium=github&utm_campaign=nycstrong">List of COVID-19 Testing Sites (NYC.gov)</a>
 
 <h2>Queens Strong, Queens Tough</h2>
 
